@@ -2,7 +2,7 @@ const options = {
   method: "GET",
   headers: {
     "X-RapidAPI-Key": "     ",//important field for proper working of API-fill the space with API key(It can get by subscribing to particular API provider.I used Weather API Ninja in rapid API for this project)
-    "X-RapidAPI-Host": "weather-by-api-ninjas.p.rapidapi.com",
+    "X-RapidAPI-Host": "weather-by-api-ninjas.p.rapidapi.com",//here i used weather api by ninjas in rapid api.you are free to use other api also.But commit necessory changes in the console response also
   },
 };
 const getWeather = (city) => {
