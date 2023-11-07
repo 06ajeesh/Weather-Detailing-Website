@@ -7,3 +7,15 @@ If you need to completely workout this subscribe to weather API in rapid API age
 ____________________________________
 
 <img src="https://raw.githubusercontent.com/06ajeesh/Weather-Detailing-Website/main/weatherapp.png" width="700">
+
+____________________________________
+
+How to setup
+----
+
+1. Open visual studio code (Preffered) or any other code editors.                                                                                                                                                                               2. Make sure you added extensions for html ( *optional : Add Extentions such as prettier )
+3. Create new file  named index.html and copy the files to it.
+4. Now create an javascript file named script.js for proper functionality.
+5. Go to API Ninjas site and go throgh different API and usages.
+
+_________________________________
